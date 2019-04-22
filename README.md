@@ -30,7 +30,6 @@ Hi, I am AMY!!
 
 
 
-
 Course | CSCI 3250
 ------------ | ------------ 
 Comment| excellent!
