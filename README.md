@@ -4,7 +4,7 @@ hello
 
 Hi, I am AMY!!
 
-# ~0~
+# love
 
 - Music
 - Badminton
