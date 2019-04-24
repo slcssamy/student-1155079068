@@ -33,4 +33,5 @@ Hi, I am AMY!!
 Course | CSCI 3250
 ------------ | ------------ 
 Comment| excellent!
-
+![Image of shot0](https://github.com/slcssamy/student-1155079068/blob/master/代碼.png)
+![Image of shot0](https://github.com/slcssamy/student-1155079068/blob/master/terminal.png)
